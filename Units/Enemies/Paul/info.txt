@@ -1,0 +1,12 @@
+Name:Paul
+Desc:This is a very poggy paul
+Health:100
+Speed:100
+SummonSpeed:1
+IdleSpeed:1
+DeathSpeed:1
+AttackSpeed:1
+WalkingAnimsNSpeed:1
+WalkingAnimsESpeed:1
+WalkingAnimsSSpeed:1
+WalkingAnimsWSpeed:1
